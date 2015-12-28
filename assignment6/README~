@@ -1,0 +1,5 @@
+Implementation of SECD Machine In Ocaml to create a little functional programming language.
+This Language handle the basic Lambda-Abstraction and Application. 
+Tuple, Projection of Tuple, Basic arithmetic Operations ,Basic Logic Operations  and Structure IfThenElse are Also Implmented
+Read FileTest to understand how to run  examples 
+
