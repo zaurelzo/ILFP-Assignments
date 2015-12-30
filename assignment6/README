@@ -3,14 +3,14 @@ This Language handle the basic Lambda-Abstraction and Application.
 Tuple, Projection of Tuple, Basic arithmetic Operations ,Basic Logic Operations  and Structure IfThenElse are Also Implmented.
 
 -Test cases are in the file file_test.ml
-TO Run a test case : you have to define you example :
+TO Run a test case : you have to define this one :
 
 
 let inst8 = App(Abstract ("x",Div(Var("x"),Integer(2))), Integer(12));;
 which corresponds to : (Lambda x , x/2)(12) 
 and run the example with this following command 
 
-main [inst15];;
+main [inst8];;
 
 
 
